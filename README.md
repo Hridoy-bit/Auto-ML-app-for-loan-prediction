@@ -50,6 +50,6 @@ Run loan_app.py
 streamlit run loan_app.py
 ```
 
-![image](mlicon.png)
-![image](mlapp.png)
-![image](accuracy.png)
+![mlicon](https://github.com/Hridoy-bit/Auto-ML-app-for-loan-prediction/assets/60895200/dd8fc510-eb4d-46d0-92dd-c71bdfe59d58)
+![image] (mlapp.png)
+![image] (accuracy.png)
