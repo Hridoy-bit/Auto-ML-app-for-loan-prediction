@@ -1,4 +1,5 @@
 # Ml-auto-app
+![mlicon](https://github.com/Hridoy-bit/Auto-ML-app-for-loan-prediction/assets/60895200/dd8fc510-eb4d-46d0-92dd-c71bdfe59d58)
 
 # Workflow
 
@@ -36,7 +37,7 @@ Download requirements.txt file
 
 ```
 
-```
+
 
 Pip install libraries
 ```
@@ -49,6 +50,7 @@ Run loan_app.py
 ```
 streamlit run loan_app.py
 ```
-![mlicon](https://github.com/Hridoy-bit/Auto-ML-app-for-loan-prediction/assets/60895200/dd8fc510-eb4d-46d0-92dd-c71bdfe59d58)
+![mlapp](https://github.com/Hridoy-bit/Auto-ML-app-for-loan-prediction/assets/60895200/78346959-9b8a-4cf4-a2dd-d28bfbd52d08)
+
 
 ![accuracy](https://github.com/Hridoy-bit/Auto-ML-app-for-loan-prediction/assets/60895200/e8088a8f-30cf-451c-96c2-7c2ef7244094)
