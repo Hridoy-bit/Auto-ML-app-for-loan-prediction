@@ -50,4 +50,6 @@ Run loan_app.py
 streamlit run loan_app.py
 ```
 
-![image]()
+![image](mlicon.png)
+![image](mlapp.png)
+![image](accuracy.png)
