@@ -1,4 +1,4 @@
-# ml-auto-app
+# Ml-auto-app
 
 # Workflow
 
@@ -27,12 +27,7 @@ Launch the web app:
 To recreate this web app on your own computer, do the following.
 
 ### Create conda environment
-Firstly, we will create a conda environment called *lazypredict*
-```
-conda create -n lazypredict python=3.7.9
-```
-Secondly, we will login to the *lazypredict* environment
-```
+
 conda activate lazypredict
 ```
 ### Install prerequisite libraries
@@ -52,7 +47,7 @@ pip install -r requirements.txt
 ###  Launch the app
 Run loan_app.py
 ```
-streamlit run app.py
+streamlit run loan_app.py
 ```
 
-![image](loan.png)
+![image]()
