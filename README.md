@@ -47,13 +47,12 @@ Pip install libraries
 ```
 pip install -r requirements.txt
 ```
-###  Download and unzip contents from GitHub repo
 
-Download and unzip contents from https://github.com/dataprofessor/ml-auto-app/archive/main.zip
 
 ###  Launch the app
 Run loan_app.py
 ```
 streamlit run app.py
 ```
-![image](https://github.com/mujib2020/Yolo-V8-instance-segmentation/assets/61886262/c6a70164-daaf-4d18-81c4-9e4bbce617d4)
+
+![image](loan.png)
