@@ -2,6 +2,7 @@
 ![mlicon](https://github.com/Hridoy-bit/Auto-ML-app-for-loan-prediction/assets/60895200/dd8fc510-eb4d-46d0-92dd-c71bdfe59d58)
 
 # Workflow
+The EDA has been done and you can run Pandas_EDA file to see that.
 
 -- Upload your data
 -- Analyze your data using profile
